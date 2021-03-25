@@ -12,6 +12,6 @@ preview image.
 i couldn't find any other color of images.
 
 
-##requireed modules
+## requireed modules
 - jimp
 - discord.js
