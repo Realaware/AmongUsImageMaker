@@ -10,3 +10,8 @@ korean is not supported. idk why
 preview image.
 
 i couldn't find any other color of images.
+
+
+##requireed modules
+- jimp
+- discord.js
