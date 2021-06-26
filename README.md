@@ -1,6 +1,6 @@
 # AmongUsImageMaker
 
-it have long been since it was made
+it has long been since it was made
 
 korean is not supported. idk why
 
